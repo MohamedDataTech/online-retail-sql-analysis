@@ -63,3 +63,17 @@ The project includes data cleaning, exploratory data analysis, business KPIs, cu
 **Mohamed Ali**
 
 [GitHub Profile](https://github.com/MohamedDataTech)
+
+## 📸 Project Screenshots
+
+### Country Revenue Analysis
+![Country Revenue](screenshots/Country_Revenue.png.png)
+
+### Monthly Sales Analysis
+![Monthly Sales](screenshots/Monthly_sales.png.png)
+
+### RFM Customer Segmentation
+![RFM Analysis](screenshots/RFM_Analysis.png)
+
+### Repeat Customer Analysis
+![Repeat Customers](screenshots/Repetative_Customer.png.png)
